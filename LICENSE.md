@@ -1,4 +1,4 @@
-# 
+# Elite JetBrains Rider themes for Mac OS | Advanced JetBrains Rider themes for PC Windows. Featuring image-scanning and import-export — optimized for maximum performance on every platform.
 
 
 
